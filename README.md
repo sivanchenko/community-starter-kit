@@ -3,10 +3,18 @@
 DESCRIPTION PLACEHOLDER
 
 ## What it does
+- Mona is part of a growing team of developers
+- To help onboard new teammates, Mona has created a slick Probot app called Welcome.
+- Mona is looking for some help.
 
 FEATURES PLACEHOLDER
 
 ## Getting started
+- Help others understand how they can use Mona's project.
+- Recognize the ways people may contribute.
+- Establish systems to organize contributions.
+- Set expectations for contributors.
+- Make Mona's project easy to find.
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
